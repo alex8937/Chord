@@ -1,0 +1,500 @@
+run 2
+compile
+run 2
+compile
+run 2
+compile
+run 2
+compile
+run 2
+compile
+run2
+run 2
+compile
+run 2
+compile
+run 2
+compile
+run 2
+compile
+run 1
+compile
+run 2
+compile
+run 2
+compile
+run 2
+compile
+run 2
+compile
+run 2
+compile
+run 2
+compile
+run 2
+compile
+run 2
+compile
+run 2
+compile
+run 2
+compile
+run 2
+run 5
+compile
+run 5
+run 2
+compile
+run 2
+compile
+run 2
+compile
+run 2
+compile
+run 2
+run 4
+run 5
+run 4
+run 6
+run 4 1
+run 4 2
+run 4 3
+run 4 4
+run 4 5
+run 4 6
+run 5 50
+run 5
+run 5 2
+run 1 1
+run 1
+run 1 2
+run
+run 4 1
+run 5 5
+run 6 5
+run 6 0
+run 8 0
+run 3 0
+run 5 0
+run 2 0
+run 2 1
+run 5 1
+run 5 0
+run 1 0
+run 1 10
+run 2 10
+run 9 10
+run
+ 
+run 2 2
+run 2 100
+run 2 2
+run 3 10
+tree
+man tree
+run 2 2
+run 4 4
+run 5 1
+run 5 2
+run 5 3
+run 5 2
+run 5 3
+run 5 4
+run 5 1
+run 5 2
+run 5 3
+run 5 4
+run 5 5
+run 5 6
+run 5 10
+run 5 2
+run 5 3
+run 5 2
+run 5 3
+run 5 4
+run 2 0
+run 5 1
+run 5 2
+run 5 3
+run 5 4
+run 5 5
+run 5 6
+run 5 7
+run 5 8
+run 5 9
+run 5 10
+run 5 11
+run 5 12
+run 1 0
+run
+run 1 0
+netstat -aln | grep 2552 
+run 1 0
+run 4 0
+run 2 full a
+run 3 full a
+run 3 fall a
+run 3 fall
+run 3 fall a
+run 3 full a
+run 3 full
+run 3 full a
+run 3 line a
+run 3 full a
+sbt
+run 3 full a
+run 3 a 2
+run 1 2 3
+run 3 line gossip
+sbt compile
+compile
+run 3 line gossip
+run 10 line gossip
+run 5 line gossip
+run 1024 line gossip
+run 512 line gossip
+run 2048 line gossip
+run 4096 line gossip
+run 8000 line gossip
+run 10000 line gossip
+run 16000 line gossip
+run 16 line gossip
+run 32000 line gossip
+run 64000 line gossip
+run 100000 line gossip
+run 1000000 line gossip
+run 10000000 line gossip
+run 5000 full gossip
+run 2000 full gossip
+run 3000 full gossip
+run 5000 full gossip
+run 9000000 line gossip
+run 1000000 line gossip
+run 2000000 line gossip
+run 100000 3d gossip
+run 1000000 3d gossip
+run 500000 3d gossip
+run 800000 3d gossip
+run 900000 3d gossip
+run 800000 imp3d gossip
+run 900000 3d gossip
+run 850000 3d gossip
+run 16 line gossip
+run 32 line gossip
+run 16 line gossip
+run 22 line gossip
+run 31 line gossip
+run 32 line gossip
+run 45 line gossip
+run 64 line gossip
+run 90 line gossip
+run 128 line gossip
+run 181 line gossip
+run 256 line gossip
+run 512 line gossip
+run 1024 line gossip
+run 181 line gossip
+run 362 line gossip
+run 742 line gossip
+run 1448 line gossip
+run 2048 line gossip
+run 1448 line gossip
+run 8 line gossip
+run 12 line gossip
+run 12 full gossip
+run 8 full gossip
+run 16 full gossip
+run 22 full gossip
+run 32 full gossip
+run 45 full gossip
+run 64 full gossip
+run 90 full gossip
+run 128 full gossip
+run 181 full gossip
+run 256 full gossip
+run 362 full gossip
+run 512 full gossip
+run 46 full gossip
+run 512 full gossip
+run 128 full gossip
+run 1024 full gossip
+run 1448 full gossip
+run 2048 full gossip
+run 2896 full gossip
+run 4096 full gossip
+run 2896 full gossip
+run 2896 line gossip
+run 128 line gossip
+run 2896 line gossip
+run 186 full gossip
+run 296 full gossip
+run 128 full gossip
+run 181 full gossip
+run 362 full gossip
+run 8 full gossip
+run 10 full gossip
+run 12 full gossip
+run 14 full gossip
+run 16 full gossip
+run 20 full gossip
+run 23 full gossip
+run 27 full gossip
+run 32 full gossip
+run 39 full gossip
+run 46 full gossip
+run 54 full gossip
+run 64 full gossip
+run 77 full gossip
+run 91 full gossip
+run 108 full gossip
+run 128 full gossip
+run 153 full gossip
+run 181 full gossip
+run 216 full gossip
+run 8 full gossip
+run 12 full gossip
+run 16 full gossip
+run 23 full gossip
+run 32 full gossip
+run 46 full gossip
+run 64 full gossip
+run 91 full gossip
+run 32 full gossip
+run 128 full gossip
+run 182 full gossip
+run 256 full gossip
+run 363 full gossip
+run 128 full gossip
+run 363 full gossip
+run 512 full gossip
+run 725 full gossip
+run 1024 full gossip
+run 1449 full gossip
+run 2048 full gossip
+run 2897 full gossip
+run 2897 line gossip
+run 2048 line gossip
+run 8 line gossip
+run 12 line gossip
+run 16 line gossip
+run 23 line gossip
+run 32 line gossip
+run 46 line gossip
+run 64 line gossip
+run 91 line gossip
+run 128 line gossip
+run 8 line gossip
+run12 line gossip
+run 12 line gossip
+run 182 line gossip
+run 256 line gossip
+run 363 line gossip
+run 512 line gossip
+run 725 line gossip
+run 1024 line gossip
+run 1449 line gossip
+run 512 line gossip
+run 363 line gossip
+run 4 line gossip
+run 4 ed gossip
+run 4 3d gossip
+run 26 3d gossip
+run 64 3d gossip
+run 4 3d gossip
+run 64 3d gossip
+run 100 3d gossip
+run 216 3d gossip
+run 27 3d gossip
+run 64 3d gossip
+run 333 3d gossip
+run 510 3d gossip
+run 722 3d gossip
+run 1000 3d gossip
+run 1111 3d gossip
+run 1600 3d gossip
+run 2197 3d gossip
+run 2666 3d gossip
+run 1331 3d gossip
+run 720 3d gossip
+run imp720 3d gossip
+run imp720 imp3d gossip
+run 720 imp3d gossip
+run 1000 imp3d gossip
+run 1333 imp3d gossip
+run 1400 imp3d gossip
+run 2000 imp3d gossip
+run 2500 imp3d gossip
+run 500 imp3d gossip
+run 8 imp3d gossip
+run 22 imp3d gossip
+run 62 imp3d gossip
+run 122 imp3d gossip
+run 222 imp3d gossip
+run 333 imp3d gossip
+run 333 imp3d pushsum
+run 8 imp3d pushsum
+run 22 imp3d pushsum
+run 22 i6p3d pushsum
+run 62 imp3d pushsum
+run 122 imp3d pushsum
+run 216 imp3d pushsum
+run 500 imp3d pushsum
+run 700 imp3d pushsum
+run 1000 imp3d pushsum
+run 1331 imp3d pushsum
+run 1700 imp3d pushsum
+run 2000 imp3d pushsum
+run 2700 imp3d pushsum
+run 2700 3d pushsum
+run 2000 3d pushsum
+run 8 3d pushsum
+run 27 3d pushsum
+run 64 3d pushsum
+run 125 3d pushsum
+run 212 3d pushsum
+run 343 3d pushsum
+run 512. 3d pushsum
+run 512 3d pushsum
+run 712 3d pushsum
+run 1000 3d pushsum
+run 1300 3d pushsum
+run 1700 3d pushsum
+run 8 line pushsum
+run 12 line pushsum
+run 16 line pushsum
+run 23 line pushsum
+run 8 line pushsum
+run 32 line pushsum
+run 46 line pushsum
+run 64 line pushsum
+run 91 line pushsum
+run 128 line pushsum
+run 182 line pushsum
+run 256 line pushsum
+run 363 line pushsum
+run 512 line pushsum
+run 725 line pushsum
+run 1024 line pushsum
+run 1449 line pushsum
+run 2048 line pushsum
+run 2897 line pushsum
+run 32 line pushsum
+run 46 line pushsum
+run 128 line pushsum
+run 32 line pushsum
+run 363 line pushsum
+run 363 full pushsum
+run 32 full pushsum
+run 8 full pushsum
+run 12 full pushsum
+run 16 full pushsum
+run 23 full pushsum
+run 46 full pushsum
+run 64 full pushsum
+run 91 full pushsum
+run 128 full pushsum
+run 182 full pushsum
+run 256 full pushsum
+run 512 full pushsum
+run 725 full pushsum
+run 1024 full pushsum
+run 1449 full pushsum
+run 2048 full pushsum
+run 2897 full pushsum
+rin 1 1
+run 1 1
+run 2 1
+run 1 1
+run 2 1
+run 2 1 2
+run 2
+run 2 1
+run 4 1
+run 40 1
+run 4 1
+run 40 1
+run 10 1
+run 20 1
+run 5 1
+run 3 1
+run 10 1
+run 5 1
+run 15 1
+run 7 1
+run 70 1
+run 700 1
+run 7000000 1
+run 70000 1
+run 7 1
+run 3 1
+run 9 1
+\\\\\\\\\\\\\
+run 9 1
+run 1 1
+run 2 1
+run 1 1
+run 2 1
+run 2 2
+run 2 1
+run 3 1
+run 3 1\
+run 3 1
+run 100 1
+run 10 1
+run 100 1
+run 10000 1
+run 100 3
+run 3 3
+run 10000 3
+run 100000 3
+run 20000 3
+run 100 3
+run 3000 3
+run 5000 3
+run 10000 3
+run 20000 3
+run 100 3
+run 200 3
+run 300 3
+run 400 3
+run 3000 3
+run 20000 3
+run 3 3
+run 3 3 1
+run 1000 3 10
+run 1000 3 20
+run 1000 3 30
+run 1000 1 30
+run 1000 1 500
+run 9 1 3
+run 5 1 2
+run 4 1 2
+run 4 1 21
+run 4 1 2
+run 100 1 2
+run 100 1 20
+run 1000 1 200
+run 1000 2 200
+run 10000 2 100
+run 10000 2 500
+run 1000 2 50
+run 1000 2 10
+run 1000 2 20
+run 1000 2 100
+run 1000 2 10
+run 1000 10 10
+run 1000 10 100
+run 1000 10 200
+run 1000 10 150
+run 1000 10 10
+run 1000 10 100
+run 1000 10 1
+run 1000 10 10
+run 1000 10 100
+run 5000 10 500
+run 5000 10 250
+run 5000 10 100
+run 5000 10 50
+run 5000 10 1000
+run 5000 10 2500
+run 5000 10 1500

@@ -1,0 +1,104 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/chen/Java_Applications/proj3.1/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+6 items
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> /home/chen/Java_Applications/proj3.1/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$Helloworldakkatest$1.class
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> /home/chen/Java_Applications/proj3.1/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$Helloworldakkatest$2.class
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> /home/chen/Java_Applications/proj3.1/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$Helloworldakkatest$3.class
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> /home/chen/Java_Applications/proj3.1/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$Helloworldakkatest$4.class
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> /home/chen/Java_Applications/proj3.1/project/target/scala-2.10/sbt-0.13/classes/MyBuild$.class
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> /home/chen/Java_Applications/proj3.1/project/target/scala-2.10/sbt-0.13/classes/MyBuild.class
+binary dependencies:
+3 items
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> /home/chen/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.9.jar
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> /home/chen/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.9.jar
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> /usr/local/java/jdk1.8.0_60/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+6 items
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> MyBuild
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> MyBuild$
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> MyBuild$$anonfun$Helloworldakkatest$1
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> MyBuild$$anonfun$Helloworldakkatest$2
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> MyBuild$$anonfun$Helloworldakkatest$3
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> MyBuild$$anonfun$Helloworldakkatest$4
+used names:
+9 items
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> <init>
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> Build
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> Helloworldakkatest
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> MyBuild
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> Project
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> apply
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> file
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> package
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> sbt
+product stamps:
+6 items
+/home/chen/Java_Applications/proj3.1/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$Helloworldakkatest$1.class -> lastModified(1445805847000)
+/home/chen/Java_Applications/proj3.1/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$Helloworldakkatest$2.class -> lastModified(1445805847000)
+/home/chen/Java_Applications/proj3.1/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$Helloworldakkatest$3.class -> lastModified(1445805847000)
+/home/chen/Java_Applications/proj3.1/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$Helloworldakkatest$4.class -> lastModified(1445805847000)
+/home/chen/Java_Applications/proj3.1/project/target/scala-2.10/sbt-0.13/classes/MyBuild$.class -> lastModified(1445805847000)
+/home/chen/Java_Applications/proj3.1/project/target/scala-2.10/sbt-0.13/classes/MyBuild.class -> lastModified(1445805847000)
+source stamps:
+1 items
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> hash(7dd402ba17218489fc33e2f41adc4489afc66e62)
+binary stamps:
+3 items
+/home/chen/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.9.jar -> lastModified(1439253389000)
+/home/chen/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.9.jar -> lastModified(1442078506000)
+/usr/local/java/jdk1.8.0_60/jre/lib/rt.jar -> lastModified(1438716583000)
+class names:
+3 items
+/home/chen/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.9.jar -> sbt.Build
+/home/chen/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.9.jar -> sbt.package$
+/usr/local/java/jdk1.8.0_60/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAJUiiSAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLGE/F90AAZub3RpZnlzcQB+AAxE/ekFdAAEd2FpdHNxAH4ADAEn1nZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMPeom9HQADGJ1aWxkTG9hZGVyc3NxAH4ADE9VSCd0AAZlcXVhbHNzcQB+AAybnVmadAAMYXNJbnN0YW5jZU9mc3EAfgAMf9x6OXQAEnByb2plY3REZWZpbml0aW9uc3NxAH4ADPQtYsd0AAxzeW5jaHJvbml6ZWRzcQB+AAxYRsvfdAANJGlzSW5zdGFuY2VPZnNxAH4ADIkohIh0AAlub3RpZnlBbGxzcQB+AAygRBM2dAALcm9vdFByb2plY3RzcQB+AAzIxncudAAMaXNJbnN0YW5jZU9mc3EAfgAMWFzMg3QAEkhlbGxvd29ybGRha2thdGVzdHNxAH4ADOPelCJ0AAdNeUJ1aWxkc3EAfgAMMKd8pXQAAj09c3EAfgAMIo6IxXQABWNsb25lc3EAfgAMryZg0nQACHRvU3RyaW5nc3EAfgAMwUqbPHQAAiE9c3EAfgAMtS9uEnQACHByb2plY3Rzc3EAfgAMhYFR/nQACGdldENsYXNzc3EAfgAM+xpMx3QAAm5lc3EAfgAMZQuvEnQAAmVxc3EAfgAMvO9hhnQACHNldHRpbmdzc3EAfgAM3WUdCXQAAiMjc3EAfgAMWu2CqXQACGZpbmFsaXplc3EAfgAMHCPYJXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgApdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBiAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGlzcQB+AGIBdXEAfgBGAAAAAHBzcQB+AGIBdXEAfgBGAAAAAHBzcQB+AGIBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBodAAFQnVpbGRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA3NidHNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCCc3EAfgB1dAAGT2JqZWN0c3EAfgB5c3EAfgB8dXEAfgB/AAAAA3NxAH4AgXQABGphdmFzcQB+AIF0AARsYW5ncQB+AIZzcQB+AHV0AANBbnlzcQB+AHlzcQB+AHx1cQB+AH8AAAACc3EAfgCBdAAFc2NhbGFxAH4AhnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVCgvmjUdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATy9ob21lL2NoZW4vSmF2YV9BcHBsaWNhdGlvbnMvcHJvajMuMS9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR91AK6FyGEifwz4vQa3ESJr8ZuYg==
+external apis:
+0 items
+source infos:
+1 items
+/home/chen/Java_Applications/proj3.1/project/Build.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUJyp8+R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9ob21lL2NoZW4vSmF2YV9BcHBsaWNhdGlvbnMvcHJvajMvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUJz0t3V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL2NoZW4vSmF2YV9BcHBsaWNhdGlvbnMvcHJvajMuMS9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUKC+aNR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL2NoZW4vSmF2YV9BcHBsaWNhdGlvbnMvcHJvajMuMS9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
